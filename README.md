@@ -64,3 +64,7 @@ ASSISTANCE REQUIRED
 
 ## License
 This project is for educational purposes.
+
+Owner
+Devanand P C
+Electronics and Communication Engineering Student
